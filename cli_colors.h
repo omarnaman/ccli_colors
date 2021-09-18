@@ -65,7 +65,7 @@ namespace clic
     template <typename T>
     T get_mods(T t1)
     {
-        return t1 + ";";
+        return t1;
     }
 
     template <typename T>
